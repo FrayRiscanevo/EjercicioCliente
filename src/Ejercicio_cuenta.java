@@ -35,7 +35,7 @@ public class Ejercicio_cuenta {
         i=teclado.nextInt();
         switch(i){
             case 1:
-                System.out.println(nCuenta.salario);
+               
                 
             
         }
